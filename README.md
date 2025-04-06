@@ -29,16 +29,20 @@ Referring Remote Sensing Image Segmentation (RRSIS) combines natural language de
 ### Segmentation Models
 | Method | Year | Venue       | Title | Code |
 |--------|------|-------------|-------|------|
-| - | 2024 | TGRS | [RRSIS: Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10458079) | [:computer: Code](https://github.com/zhu-xlab/rrsis) |
-| - | 2024 | TGRS | [Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10816052) | [:computer: Code](https://github.com/Shaosifan/FIANet) |
-| - | 2024 | CVPR | [Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Rotated_Multi-Scale_Interaction_Network_for_Referring_Remote_Sensing_Image_Segmentation_CVPR_2024_paper.html) | [:computer: Code](https://github.com/Lsan2401/RMSIN) |
+| LGCE | 2024 | TGRS | [RRSIS: Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10458079) | [:computer: Code](https://github.com/zhu-xlab/rrsis) |
+| FIANet | 2024 | TGRS | [Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10816052) | [:computer: Code](https://github.com/Shaosifan/FIANet) |
+| RMSIN | 2024 | CVPR | [Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Rotated_Multi-Scale_Interaction_Network_for_Referring_Remote_Sensing_Image_Segmentation_CVPR_2024_paper.html) | [:computer: Code](https://github.com/Lsan2401/RMSIN) |
 | DANet | 2024 | ACMMM | [Rethinking the Implicit Optimization Paradigm with Dual Alignments for Referring Remote Sensing Image Segmentation](https://dl.acm.org/doi/10.1145/3664647.3681318) | - |
-| - | 2025 | Arxiv | [Customized SAM 2 for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2503.07266) | - |
-| - | 2025 | GRSL | [Multimodal-Aware Fusion Network For Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2503.11183) | [:computer: Code](https://github.com/Roaxy/MAFN) |
+| RS2-SAM 2 | 2025 | Arxiv | [Customized SAM 2 for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2503.07266) | - |
+| MAFN | 2025 | GRSL | [Multimodal-Aware Fusion Network For Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2503.11183) | [:computer: Code](https://github.com/Roaxy/MAFN) |
 | - | 2024 | IGARSS | [Referring Image Segmentation for Remote Sensing Data](https://ieeexplore.ieee.org/abstract/document/10642726) | - |
 | BTDNet | 2025 | Arxiv | [Referring Remote Sensing Image Segmentation via Bidirectional Alignment Guided Joint Prediction](https://arxiv.org/abs/2502.08486) | [:computer: Code](https://github.com/wzk913ysq/BAJP) |
 | RSRefSeg | 2025 | IGARSS | [Referring Remote Sensing Image Segmentation with Foundation Models](https://arxiv.org/abs/2501.06809) | [:computer: Code](https://github.com/KyanChen/RSRefSeg) |
 | CroBIM | 2024 | Arxiv | [Cross-Modal Bidirectional Interaction Model for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2410.08613) | [:computer: Code](https://github.com/HIT-SIRS/CroBIM) |
+| RSSep | 2024 | ACCVW | [RSSep: Sequence-to-Sequence Model for Simultaneous Referring Remote Sensing Segmentation and Detection](https://openaccess.thecvf.com/content/ACCV2024W/LAMM/html/Ho_RSSep_Sequence-to-Sequence_Model_for_Simultaneous_Referring_Remote_Sensing_Segmentation_and_ACCVW_2024_paper.html) | - |
+| SBANet | 2025 | Arxiv | [Scale-wise Bidirectional Alignment Network for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2501.00851) | - |
+| AeroReformer | 2025 | Arxiv | [Aerial Referring Transformer for UAV-based Referring Image Segmentation](https://arxiv.org/abs/2502.16680) | [:computer: Code](https://github.com/lironui/AeroReformer) |
+
 
 
 
