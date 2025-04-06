@@ -27,17 +27,29 @@ Referring Remote Sensing Image Segmentation (RRSIS) combines natural language de
 
 ## :newspaper: Latest Papers
 ### Segmentation Models
-| Year | Venue       | Title | Code |
-|------|-------------|-------|------|
-| 2024 | TGRS | [RRSIS: Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10458079) | [:computer: Code](https://github.com/zhu-xlab/rrsis) |
-| 2024 | TGRS | [Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10816052) | [:computer: Code](https://github.com/Shaosifan/FIANet) |
-| 2024 | CVPR | [Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Rotated_Multi-Scale_Interaction_Network_for_Referring_Remote_Sensing_Image_Segmentation_CVPR_2024_paper.html) | [:computer: Code](https://github.com/Lsan2401/RMSIN) |
+| Method | Year | Venue       | Title | Code |
+|--------|------|-------------|-------|------|
+| - | 2024 | TGRS | [RRSIS: Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10458079) | [:computer: Code](https://github.com/zhu-xlab/rrsis) |
+| - | 2024 | TGRS | [Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10816052) | [:computer: Code](https://github.com/Shaosifan/FIANet) |
+| - | 2024 | CVPR | [Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Rotated_Multi-Scale_Interaction_Network_for_Referring_Remote_Sensing_Image_Segmentation_CVPR_2024_paper.html) | [:computer: Code](https://github.com/Lsan2401/RMSIN) |
+| DANet | 2024 | ACMMM | [Rethinking the Implicit Optimization Paradigm with Dual Alignments for Referring Remote Sensing Image Segmentation](https://dl.acm.org/doi/10.1145/3664647.3681318) | - |
+| - | 2025 | Arxiv | [Customized SAM 2 for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2503.07266) | - |
+| - | 2025 | GRSL | [Multimodal-Aware Fusion Network For Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2503.11183) | [:computer: Code](https://github.com/Roaxy/MAFN) |
+| - | 2024 | IGARSS | [Referring Image Segmentation for Remote Sensing Data](https://ieeexplore.ieee.org/abstract/document/10642726) | - |
+| BTDNet | 2025 | Arxiv | [Referring Remote Sensing Image Segmentation via Bidirectional Alignment Guided Joint Prediction](https://arxiv.org/abs/2502.08486) | [:computer: Code](https://github.com/wzk913ysq/BAJP) |
+| RSRefSeg | 2025 | IGARSS | [Referring Remote Sensing Image Segmentation with Foundation Models](https://arxiv.org/abs/2501.06809) | [:computer: Code](https://github.com/KyanChen/RSRefSeg) |
+| CroBIM | 2024 | Arxiv | [Cross-Modal Bidirectional Interaction Model for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2410.08613) | [:computer: Code](https://github.com/HIT-SIRS/CroBIM) |
+
+
 
 ## :floppy_disk: Datasets
 | Year | Dataset     | Size       | Download Links |
 |------|-------------|------------|----------------|
 | 2024 | RefSegRS    | 4,420 image-caption-mask triplets | [:page_facing_up: Paper](https://ieeexplore.ieee.org/abstract/document/10458079) \| [:floppy_disk: Data](https://github.com/zhu-xlab/rrsis) |
 | 2024 | RRSIS-D    | 17,402 image-caption-mask triplets | [:page_facing_up: Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Rotated_Multi-Scale_Interaction_Network_for_Referring_Remote_Sensing_Image_Segmentation_CVPR_2024_paper.html) \| [:floppy_disk: Data](https://github.com/Lsan2401/RMSIN) |
+| 2024 | RISBench | 52,472 image-caption-mask triplets | [:page_facing_up: Paper](https://arxiv.org/abs/2410.08613) \| [:floppy_disk: Data](https://github.com/HIT-SIRS/CroBIM) |
+
+
 
 ## :computer: Codebases
 | Framework | Language | Stars | Features | Reference Code |
