@@ -73,7 +73,7 @@ $$\text{cIoU} = \frac{\sum_{i=1}^{N} |P_i \cap G_i|}{\sum_{i=1}^{N} |P_i \cup G_
 
 ### Implementation
 Standard metric implementation reference:  
-[<mcsymbol name="iou_metrics.py" filename="iou_metrics.py" path="https://github.com/KyanChen/RSRefSeg/blob/release/rsris/evaluation/metrcis/iou_metrics.py" startline="1" type="function"></mcsymbol>](https://github.com/KyanChen/RSRefSeg/blob/release/rsris/evaluation/metrcis/iou_metrics.py) based on TorchMetrics.
+[iou_metrics.py](https://github.com/KyanChen/RSRefSeg/blob/release/rsris/evaluation/metrics/iou_metrics.py) based on TorchMetrics.
 
 
 ---
