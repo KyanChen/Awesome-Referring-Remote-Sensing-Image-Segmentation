@@ -1,0 +1,66 @@
+
+### Python ###
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+### IDE ###
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+workspace.xml
+modules.xml
+
+# VSCode
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*.swp
+*.swo
+*~
+~$*
+
+### Logs and databases ###
+*.log
+*.sqlite
+
+# Local development
+.env
+.env.local
+.env.development
+.env.test
+.env.production
