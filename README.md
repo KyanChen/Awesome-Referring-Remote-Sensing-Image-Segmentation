@@ -29,6 +29,7 @@ Referring Remote Sensing Image Segmentation (RRSIS) combines natural language de
 ### Segmentation Models
 | Method | Year | Venue | Title                                                                                                                                                                            | Code                                                             |
 |--------|------|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|SAARN | 2025 | Arxiv | [RIS-LAD: A Benchmark and Model for Referring Low-Altitude Drone Image Segmentation](https://arxiv.org/abs/2507.20920)                                                | [:computer: Code](https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation) |
 |RSRefSeg 2| 2025 | Arxiv | [RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models](https://arxiv.org/abs/2507.06231)                                                    | [:computer: Code](https://github.com/KyanChen/RSRefSeg2)         |
 |RRSECS| 2025 | GRSM | [RRSECS: Referring remote sensing expression comprehension and segmentation](https://ieeexplore.ieee.org/document/11036256)                                                      | [:computer: Code](https://github.com/IPIU-XDU/RSFM)              |
 |MRSNet| 2025 | Arxiv | [A Large-Scale Referring Remote Sensing Image Segmentation Dataset and Benchmark](https://arxiv.org/abs/2506.03583)                                                              | [:computer: Code](https://github.com/CVer-Yang/NWPU-Refer)       |
@@ -58,6 +59,7 @@ Referring Remote Sensing Image Segmentation (RRSIS) combines natural language de
 ## :floppy_disk: Datasets
 | Year | Dataset     | Size                                       | Download Links |
 |------|-------------|--------------------------------------------|----------------|
+| 2025 | RIS-LAD   | 13,871 image-caption-mask triplets         | [:page_facing_up: Paper](https://arxiv.org/abs/2507.20920) \| [:floppy_disk: Data](https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation) |
 | 2025 | EarthReason  | 30,000 image-question-mask-answer quadruples | [:page_facing_up: Paper](https://arxiv.org/abs/2504.09644) \| [:floppy_disk: Data](https://github.com/earth-insights/SegEarth-R1) |
 | 2025 | RefDIOR | 38,320 image-caption-box-mask quadruples   | [:page_facing_up: Paper](https://ieeexplore.ieee.org/document/11036256) \| [:floppy_disk: Data](https://github.com/IPIU-XDU/RSFM) |
 | 2025 | NWPU-Refer| 49,745 image-caption-mask triplets         | [:page_facing_up: Paper](https://arxiv.org/abs/2506.03583) \| [:floppy_disk: Data](https://github.com/CVer-Yang/NWPU-Refer) |
